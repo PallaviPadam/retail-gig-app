@@ -1,16 +1,24 @@
-# yo
+Overview 📊
 
-A new Flutter project.
+A mobile app connecting retail gig workers with job opportunities, built using Flutter for cross-platform support and Firebase for backend services, offering real-time job listings, secure payment integration, and job application features.
 
-## Getting Started
+Key Features 🔑
 
-This project is a starting point for a Flutter application.
+Real-time Job Listings, Job Application & Payment System, Ratings & Reviews, Push Notifications, Secure Authentication via Firebase
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used 💻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter, Firebase (Firestore, Authentication, Cloud Messaging), Stripe (Payment Integration)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Applications 🎯
+
+The app supports job search, gig posting by employers, and tracks payments and earnings for retail workers, ensuring smooth and transparent transactions.
+
+Future Improvements 🚀
+
+Plans include integrating AI-driven job matching, enhancing user interface for better experience, expanding payment options, and incorporating real-time gig availability updates.
+
+
+
+
+
